@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.57b74f5c.css",
+    "main.js": "/weather-app/static/js/main.9800b0bd.js",
+    "static/media/yosemite.jpeg": "/weather-app/static/media/yosemite.2c91ca768acbfa487dde.jpeg",
+    "static/media/IMG_1991.JPG": "/weather-app/static/media/IMG_1991.26d918df840aa1b85c06.JPG",
+    "index.html": "/weather-app/index.html",
+    "main.57b74f5c.css.map": "/weather-app/static/css/main.57b74f5c.css.map",
+    "main.9800b0bd.js.map": "/weather-app/static/js/main.9800b0bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57b74f5c.css",
+    "static/js/main.9800b0bd.js"
+  ]
+}
